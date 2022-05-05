@@ -1,13 +1,13 @@
 # Fork
 - Download Fork
 - Connect GitHub
-# Loal
+# Local Repository
 - Create local repository
 - Add local repository to Fork
-# Remote
+# Remote Repository
 - Create remote repository
 
-# Practice
+# Practice Tasks
 - Commit local
 - Commit remote
 - Pull from remote
