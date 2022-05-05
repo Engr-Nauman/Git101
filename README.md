@@ -1,1 +1,4 @@
-Created a new file.
+# Fork
+## Steps
+- Download Fork
+- Connect GitHub
