@@ -12,3 +12,4 @@
 - Commit remote
 - Pull from remote
 - Push to remote
+- You can also connect in VSCode
